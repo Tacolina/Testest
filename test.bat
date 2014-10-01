@@ -1,0 +1,2 @@
+ECHO hello worlddddd
+PAUSE
